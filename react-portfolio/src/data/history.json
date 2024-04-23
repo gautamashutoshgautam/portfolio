@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Software Engineer Intern",
+    "organisation": "ABC Fitness",
+    "startDate": "May, 2023",
+    "endDate": "July 2023",
+    "experiences": ["Implementing user interface components for web applications","Collaborated with designers and back-end developers to ensure a seamless integration of front-end elements with server-side logic and functionality"],
+    "imageSrc": "history/ABC_Fitness.png"
+  },
+  {
+    "role": "Software Developer",
+    "organisation": "Upwork",
+    "startDate": "Jan, 2023",
+    "endDate": "May, 2023",
+    "experiences": ["Stripe Integration in Flutter App"],
+    "imageSrc": "history/upwork.png"
+  }
+]
